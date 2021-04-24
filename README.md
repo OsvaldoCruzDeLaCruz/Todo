@@ -1,6 +1,5 @@
-# webpack-configuracion-estandar
-Este es el proyecto inicial para crear 
-aplicaciones utilizando webpack.
+# Todo list
+Este es el proyecto es un todo
 
 
 ## Nota
